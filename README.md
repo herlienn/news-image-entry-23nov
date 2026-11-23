@@ -1,10 +1,11 @@
 # News Image — 23 November 2026
 
-![Bounty](https://make.fun/badge/news-image-20261123.svg)
-![Rank](https://make.fun/badge/news-image-20261123/herlienn/news-image-entry-23nov/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261123/herlienn/news-image-entry-23nov/reward.svg)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/herlienn/news-image-entry-23nov/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/herlienn/news-image-entry-23nov/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-One image summing up Monday 23 November 2026's world news, drawn entirely in code.
+One image summing up the world news of Monday 23 November 2026 — 43 stories,
+6 continents, drawn in code.
 
 **Bounty:** https://make.fun/bounty/news-image-20261123
 
@@ -35,7 +36,12 @@ papers count as 23 Nov news. Sports scores verified against two sources.
 ## Run it
 
 ```sh
-MAKEFUN_OUTPUT_DIR=./out node main.ts
+MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 Two runs produce byte-identical output.
+
+---
+
+Built for the [make.fun](https://make.fun) bounty — try make.fun yourself:
+https://make.fun/r/4a84jcbk
